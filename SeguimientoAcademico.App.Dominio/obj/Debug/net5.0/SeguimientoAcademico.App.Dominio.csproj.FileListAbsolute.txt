@@ -1,0 +1,12 @@
+C:\Users\Lmighernandez\Documents\estudio\Hospitalizacion\APP_Seguimiento_Estudiantil-\SeguimientoAcademico.App.Dominio\bin\Debug\net5.0\SeguimientoAcademico.App.Dominio.deps.json
+C:\Users\Lmighernandez\Documents\estudio\Hospitalizacion\APP_Seguimiento_Estudiantil-\SeguimientoAcademico.App.Dominio\bin\Debug\net5.0\SeguimientoAcademico.App.Dominio.dll
+C:\Users\Lmighernandez\Documents\estudio\Hospitalizacion\APP_Seguimiento_Estudiantil-\SeguimientoAcademico.App.Dominio\bin\Debug\net5.0\ref\SeguimientoAcademico.App.Dominio.dll
+C:\Users\Lmighernandez\Documents\estudio\Hospitalizacion\APP_Seguimiento_Estudiantil-\SeguimientoAcademico.App.Dominio\bin\Debug\net5.0\SeguimientoAcademico.App.Dominio.pdb
+C:\Users\Lmighernandez\Documents\estudio\Hospitalizacion\APP_Seguimiento_Estudiantil-\SeguimientoAcademico.App.Dominio\obj\Debug\net5.0\SeguimientoAcademico.App.Dominio.csprojAssemblyReference.cache
+C:\Users\Lmighernandez\Documents\estudio\Hospitalizacion\APP_Seguimiento_Estudiantil-\SeguimientoAcademico.App.Dominio\obj\Debug\net5.0\SeguimientoAcademico.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lmighernandez\Documents\estudio\Hospitalizacion\APP_Seguimiento_Estudiantil-\SeguimientoAcademico.App.Dominio\obj\Debug\net5.0\SeguimientoAcademico.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\Lmighernandez\Documents\estudio\Hospitalizacion\APP_Seguimiento_Estudiantil-\SeguimientoAcademico.App.Dominio\obj\Debug\net5.0\SeguimientoAcademico.App.Dominio.AssemblyInfo.cs
+C:\Users\Lmighernandez\Documents\estudio\Hospitalizacion\APP_Seguimiento_Estudiantil-\SeguimientoAcademico.App.Dominio\obj\Debug\net5.0\SeguimientoAcademico.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Lmighernandez\Documents\estudio\Hospitalizacion\APP_Seguimiento_Estudiantil-\SeguimientoAcademico.App.Dominio\obj\Debug\net5.0\SeguimientoAcademico.App.Dominio.dll
+C:\Users\Lmighernandez\Documents\estudio\Hospitalizacion\APP_Seguimiento_Estudiantil-\SeguimientoAcademico.App.Dominio\obj\Debug\net5.0\ref\SeguimientoAcademico.App.Dominio.dll
+C:\Users\Lmighernandez\Documents\estudio\Hospitalizacion\APP_Seguimiento_Estudiantil-\SeguimientoAcademico.App.Dominio\obj\Debug\net5.0\SeguimientoAcademico.App.Dominio.pdb

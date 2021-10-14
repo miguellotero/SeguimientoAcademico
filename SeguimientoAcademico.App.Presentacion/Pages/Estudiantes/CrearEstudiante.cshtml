@@ -1,0 +1,34 @@
+﻿@page
+@model SeguimientoAcademico.App.Presentacion.Pages.Estudiantes.CrearEstudianteModel
+@{
+}
+<h1>Creacion Estudiantes</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label asp-for="estudiante.Nombre"></label>
+        <input asp-for="estudiante.Nombre" class="form-control" require>
+    </div>
+    <div class="form-group">
+        <label asp-for="estudiante.Apellido"></label>
+        <input asp-for="estudiante.Apellido" class="form-control" require>
+    </div>
+    <div class="form-group">
+        <label asp-for="estudiante.Telefono"></label>
+        <input asp-for="estudiante.Telefono" class="form-control" require>
+    </div>
+    <div class="form-group">
+        <label asp-for="estudiante.Direccion"></label>
+        <input asp-for="estudiante.Direccion" class="form-control" require>
+    </div>
+    <div class="form-group">
+        <label asp-for="estudiante.Latitud"></label>
+        <input asp-for="estudiante.Latitud" class="form-control" require>
+    </div>
+    <div class="form-group">
+        <label asp-for="estudiante.Longitud"></label>
+        <input asp-for="estudiante.Longitud" class="form-control" require>
+    </div>
+    <button type="submit" class="btn btn-success">Enviar</button>
+</form>
+<a class="btn btn-primary" asp-page="./Estudiantes/ConsultarEstudiantes"></a>
