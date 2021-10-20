@@ -89,7 +89,7 @@ namespace SeguimientoAcademico.App.Persistencia
 
         /*IEnumerable<Estudiante> IRepositorioEstudiante.GetEstudiantesTaller()
         {
-            return _appContext.Estudiantes.Where(p => p.Actividades.Any(a => Actividad.Nombre == "Taller")).ToList();
+            return _appContext.Estudiantes.Where(p => p.Actividades.Any(a => Actividades.Nombre == Taller)).ToList();
         }*/
 
     }

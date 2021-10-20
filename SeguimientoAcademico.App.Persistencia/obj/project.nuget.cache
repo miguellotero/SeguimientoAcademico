@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UbrKDSJQpuzC3X2Ik6a2XGA9TfOUflnBDY1E+jrQJxZ6dJwCJ734Qv+UbDff2+JVFiAXM2Code/kA+Kom5EwLA==",
+  "dgSpecHash": "6PGm1nYZ0s5U9xc+P0hVCQSZDeGEPO4Rvcg3kWLJlHnOWU0fRS1uDBw9BR8O3Tjt4/Z/FZOf+wCo4u54nbQFUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lmighernandez\\Documents\\estudio\\Hospitalizacion\\APP_Seguimiento_Estudiantil-\\SeguimientoAcademico.App.Persistencia\\SeguimientoAcademico.App.Persistencia.csproj",
+  "projectFilePath": "C:\\Users\\Lmighernandez\\Documents\\estudio\\SeguimientoAcademico\\SeguimientoAcademico.App.Persistencia\\SeguimientoAcademico.App.Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lmighernandez\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Lmighernandez\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

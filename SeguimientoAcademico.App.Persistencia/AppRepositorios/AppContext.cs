@@ -13,7 +13,7 @@ namespace SeguimientoAcademico.App.Persistencia
         public DbSet <Materia> Materias {get;set;} 
         public DbSet <Actividad> Actividades {get;set;} 
         public DbSet <Recomendacion> Recomendaciones {get;set;} 
-        
+         
         protected override void OnConfiguring (DbContextOptionsBuilder optionsBuilder) {
 
             if (!optionsBuilder.IsConfigured){

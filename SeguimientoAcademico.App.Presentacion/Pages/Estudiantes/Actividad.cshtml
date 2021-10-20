@@ -16,6 +16,23 @@
     <div class="form-group">
         <label asp-for="estudiante.Apellido"></label>
         <input asp-for="estudiante.Apellido" class="form-control" readonly>
+    </div>    
+    <div class="form-group">
+        <label asp-for="actividad.Nombre"></label>
+        <input asp-for="actividad.Nombre" class="form-control" required>
+    </div> 
+    <div class="form-group">
+        <label asp-for="actividad.Descripcion"></label>
+        <input asp-for="actividad.Descripcion" class="form-control" required>
+    </div>
+    <div class="form-group">
+        <label asp-for="actividad.Avance"></label>
+        <select asp-for="actividad.Avance" class="form-control">
+            <option value="pendiente">PENDIENTE</option>
+            <option value="hecho">HECHO</option>
+            <option value="por_hacer">POR HACER</option>
+            <option value="con_dudas">CON DUDAS</option>
+        </select>
     </div>
     <button type="submit" class="btn btn-success">Registrar</button>
 </form>

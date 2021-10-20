@@ -13,6 +13,7 @@
             <th scope="col">Latitud</th>
             <th scope="col">Longitud</th>
             <th scope="col">Actividades</th>
+            <th scope="col">Consultas</th>
         </tr>
     </thead>
     @foreach (var x in Model.estudiantes)
@@ -25,6 +26,7 @@
             <td>@x.Latitud</td>
             <td>@x.Longitud</td>
             <td><a class="btn btn-secondary" asp-page="/Estudiantes/Actividad" asp-route-id="@x.Id">Registrar Actividad</a></td>
+            <td><a class="btn btn-secondary" asp-page="/Estudiantes/ConsultasG">Consultas</a></td>
         </tr>
     }
 </table>

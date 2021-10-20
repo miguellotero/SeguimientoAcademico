@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lmighernandez\\Documents\\estudio\\Hospitalizacion\\APP_Seguimiento_Estudiantil-\\SeguimientoAcademico.App.Persistencia\\SeguimientoAcademico.App.Persistencia.csproj": {}
+    "C:\\Users\\Lmighernandez\\Documents\\estudio\\SeguimientoAcademico\\SeguimientoAcademico.App.Persistencia\\SeguimientoAcademico.App.Persistencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lmighernandez\\Documents\\estudio\\Hospitalizacion\\APP_Seguimiento_Estudiantil-\\SeguimientoAcademico.App.Dominio\\SeguimientoAcademico.App.Dominio.csproj": {
+    "C:\\Users\\Lmighernandez\\Documents\\estudio\\SeguimientoAcademico\\SeguimientoAcademico.App.Dominio\\SeguimientoAcademico.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lmighernandez\\Documents\\estudio\\Hospitalizacion\\APP_Seguimiento_Estudiantil-\\SeguimientoAcademico.App.Dominio\\SeguimientoAcademico.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Lmighernandez\\Documents\\estudio\\SeguimientoAcademico\\SeguimientoAcademico.App.Dominio\\SeguimientoAcademico.App.Dominio.csproj",
         "projectName": "SeguimientoAcademico.App.Dominio",
-        "projectPath": "C:\\Users\\Lmighernandez\\Documents\\estudio\\Hospitalizacion\\APP_Seguimiento_Estudiantil-\\SeguimientoAcademico.App.Dominio\\SeguimientoAcademico.App.Dominio.csproj",
+        "projectPath": "C:\\Users\\Lmighernandez\\Documents\\estudio\\SeguimientoAcademico\\SeguimientoAcademico.App.Dominio\\SeguimientoAcademico.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\Lmighernandez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lmighernandez\\Documents\\estudio\\Hospitalizacion\\APP_Seguimiento_Estudiantil-\\SeguimientoAcademico.App.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\Lmighernandez\\Documents\\estudio\\SeguimientoAcademico\\SeguimientoAcademico.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lmighernandez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\Lmighernandez\\Documents\\estudio\\Hospitalizacion\\APP_Seguimiento_Estudiantil-\\SeguimientoAcademico.App.Persistencia\\SeguimientoAcademico.App.Persistencia.csproj": {
+    "C:\\Users\\Lmighernandez\\Documents\\estudio\\SeguimientoAcademico\\SeguimientoAcademico.App.Persistencia\\SeguimientoAcademico.App.Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lmighernandez\\Documents\\estudio\\Hospitalizacion\\APP_Seguimiento_Estudiantil-\\SeguimientoAcademico.App.Persistencia\\SeguimientoAcademico.App.Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\Lmighernandez\\Documents\\estudio\\SeguimientoAcademico\\SeguimientoAcademico.App.Persistencia\\SeguimientoAcademico.App.Persistencia.csproj",
         "projectName": "SeguimientoAcademico.App.Persistencia",
-        "projectPath": "C:\\Users\\Lmighernandez\\Documents\\estudio\\Hospitalizacion\\APP_Seguimiento_Estudiantil-\\SeguimientoAcademico.App.Persistencia\\SeguimientoAcademico.App.Persistencia.csproj",
+        "projectPath": "C:\\Users\\Lmighernandez\\Documents\\estudio\\SeguimientoAcademico\\SeguimientoAcademico.App.Persistencia\\SeguimientoAcademico.App.Persistencia.csproj",
         "packagesPath": "C:\\Users\\Lmighernandez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lmighernandez\\Documents\\estudio\\Hospitalizacion\\APP_Seguimiento_Estudiantil-\\SeguimientoAcademico.App.Persistencia\\obj\\",
+        "outputPath": "C:\\Users\\Lmighernandez\\Documents\\estudio\\SeguimientoAcademico\\SeguimientoAcademico.App.Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lmighernandez\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Lmighernandez\\Documents\\estudio\\Hospitalizacion\\APP_Seguimiento_Estudiantil-\\SeguimientoAcademico.App.Dominio\\SeguimientoAcademico.App.Dominio.csproj": {
-                "projectPath": "C:\\Users\\Lmighernandez\\Documents\\estudio\\Hospitalizacion\\APP_Seguimiento_Estudiantil-\\SeguimientoAcademico.App.Dominio\\SeguimientoAcademico.App.Dominio.csproj"
+              "C:\\Users\\Lmighernandez\\Documents\\estudio\\SeguimientoAcademico\\SeguimientoAcademico.App.Dominio\\SeguimientoAcademico.App.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Lmighernandez\\Documents\\estudio\\SeguimientoAcademico\\SeguimientoAcademico.App.Dominio\\SeguimientoAcademico.App.Dominio.csproj"
               }
             }
           }

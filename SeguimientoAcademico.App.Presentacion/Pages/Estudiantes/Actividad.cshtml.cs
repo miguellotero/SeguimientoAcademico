@@ -13,30 +13,32 @@ namespace SeguimientoAcademico.App.Presentacion.Pages.Estudiantes
     
     public class ActividadModel : PageModel
     {
-        private readonly IRepositorioEstudiante _repoEstudiante;
+        private readonly IRepositorioEstudiante _repoEstudiante;     
+
         public Estudiante estudiante{get;set;}
-        /*public Actividad actividad{get;set;}    
+        public Actividad actividad{get;set;}
         public ActividadModel(IRepositorioEstudiante _repoEstudiante)
         {
             this._repoEstudiante=_repoEstudiante;
         }
-        */
-        public void OnGet(int IdEstudiante)
+
+        
+        public IActionResult OnGet(int id)
         {
-            /*estudiante=_repoEstudiante.GetEstudiante(IdEstudiante);
+            estudiante=_repoEstudiante.GetEstudiante(id);
             if(estudiante != null)
             {
-                return Pages();
+                return Page();
             }else
             {
                 return NotFound();
-            }*/
+            }
         }
-        /*public IActionResult OnPost(int IdEstudiante, Actividad actividad)
+        public IActionResult OnPost(int Id, Actividad actividad)
         {
-            _repoEstudiante.AddActividad(IdEstudiante,actividad);
+            _repoEstudiante.AddActividad(Id,actividad);
             return RedirectToPage("ConsultarEstudiantes");
         }
-        */
+        
     }
 }
