@@ -3,6 +3,8 @@
 @{
 }
 <h1>Listado de estudiantes</h1>
+<a class="btn btn-primary" asp-page="/Estudiantes/CrearEstudiante">Crear estudiantes</a>
+<hr>
 <table class="table">
     <thead>
         <tr>
@@ -13,7 +15,9 @@
             <th scope="col">Latitud</th>
             <th scope="col">Longitud</th>
             <th scope="col">Actividades</th>
-            <th scope="col">Consultas</th>
+            <th scope="col">Docentes</th>
+            <th scope="col">Asignaturas</th>
+            <th scope="col">Recomendaciones</th>
         </tr>
     </thead>
     @foreach (var x in Model.estudiantes)
@@ -26,7 +30,9 @@
             <td>@x.Latitud</td>
             <td>@x.Longitud</td>
             <td><a class="btn btn-secondary" asp-page="/Estudiantes/Actividad" asp-route-id="@x.Id">Registrar Actividad</a></td>
-            <td><a class="btn btn-secondary" asp-page="/Estudiantes/ConsultasG">Consultas</a></td>
+            <td><a class="btn btn-secondary" asp-page="/Estudiantes/Docente" asp-route-id="@x.Id">Registrar Docentes</a></td>
+            <td><a class="btn btn-secondary" asp-page="/Estudiantes/Materia" asp-route-id="@x.Id">Registrar Asignaturas</a></td>
+            <td><a class="btn btn-secondary" asp-page="/Estudiantes/Recomendacion" asp-route-id="@x.Id">Registrar Recomendaciones</a></td>
         </tr>
     }
 </table>
