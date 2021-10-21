@@ -248,3 +248,9 @@ C:\Users\Lmighernandez\Documents\estudio\SeguimientoAcademico\SeguimientoAcademi
 C:\Users\Lmighernandez\Documents\estudio\SeguimientoAcademico\SeguimientoAcademico.App.Presentacion\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
 C:\Users\Lmighernandez\Documents\estudio\SeguimientoAcademico\SeguimientoAcademico.App.Presentacion\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
 C:\Users\Lmighernandez\Documents\estudio\SeguimientoAcademico\SeguimientoAcademico.App.Presentacion\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Lmighernandez\Documents\estudio\SeguimientoAcademico\SeguimientoAcademico.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Estudiantes\Docente.cshtml.g.cs
+C:\Users\Lmighernandez\Documents\estudio\SeguimientoAcademico\SeguimientoAcademico.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Estudiantes\Materia.cshtml.g.cs
+C:\Users\Lmighernandez\Documents\estudio\SeguimientoAcademico\SeguimientoAcademico.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Estudiantes\Recomendacion.cshtml.g.cs
+C:\Users\Lmighernandez\Documents\estudio\SeguimientoAcademico\SeguimientoAcademico.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Estudiantes\verActividades.cshtml.g.cs
+C:\Users\Lmighernandez\Documents\estudio\SeguimientoAcademico\SeguimientoAcademico.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Estudiantes\verAsignaturas.cshtml.g.cs
+C:\Users\Lmighernandez\Documents\estudio\SeguimientoAcademico\SeguimientoAcademico.App.Presentacion\obj\Debug\net5.0\Razor\Pages\Estudiantes\verMestros.cshtml.g.cs

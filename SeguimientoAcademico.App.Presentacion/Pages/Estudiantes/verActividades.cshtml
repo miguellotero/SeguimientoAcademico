@@ -1,0 +1,26 @@
+﻿@page
+@model SeguimientoAcademico.App.Presentacion.Pages.Estudiantes.verActividadesModel
+@{
+}
+<h1>Listado de actividades por Estudiante</h1>
+<a class="btn btn-primary" asp-page="/Estudiantes/CrearEstudiante">Crear estudiantes</a>
+<hr>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Nombre</th>
+            <th scope="col">Apellido</th>
+            <th scope="col">Actividades</th>
+            <th scope="col">Acciones</th>
+        </tr>
+    </thead>
+    @foreach (var x in Model.estudiantes)
+    {
+        <tr>
+            <td>@x.Nombre</td>
+            <td>@x.Apellido</td>
+            <td></td>
+            <td><a class="btn btn-secondary" asp-page="/Estudiantes/Actividad" asp-route-id="@x.Id">Registrar Actividad</a></td>
+        </tr>
+    }
+</table>
